@@ -1,1 +1,1 @@
-//payment
+//payment stripe
