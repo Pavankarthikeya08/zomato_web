@@ -22,9 +22,7 @@ The project delivers a seamless experience for customers, combining a user-frien
 - 🖥️ **Responsive Design** – Works on desktops, tablets, and mobile devices.  
 - 🔒 **User Authentication** – Secure login and registration using **JWT**.  
 - 🔍 **Browse and Search** – Users can browse restaurants, view menus, and search for food items by category, popularity, or dietary preference.  
-- 🛒 **Order Management** – Place orders and manage delivery addresses.  
 
-> ⚠️ Note: Payment integration and admin panel are not included in this version.
 
 ---
 
